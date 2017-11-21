@@ -3,13 +3,17 @@
 
 An expressjs utility for development . It logs out your app behavior . You can also set it to log your data in a separate file . This npm module is an express middleware . It can be install via npm and yarn .
 
-## NPM
+### Screenshot :
+[Imgur](https://i.imgur.com/ABPF9fq.png)
+![Screenshot](https://i.imgur.com/ABPF9fq.png)
+## Install this package
+### NPM
 <code> npm i express-informer --save-dev </code>
 
-## YARN
+### YARN
 <code> yarn add express-informer </code>
 
-## Usage
+### Usage
 
 Using express-informer is easy . It goes like this :
 ```javascript
