@@ -1,0 +1,21 @@
+{
+  "name": "express-informer",
+  "version": "1.0.0",
+  "description": "An express development utility for logging out express behavior in the console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pacifio/express-informer.git"
+  },
+  "keywords": ["Express.js", "colors"],
+  "author": "Adib Mohsin",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "express": "^4.16.2"
+  },
+  "homepage": "https://github.com/pacifio/express-informer"
+}
