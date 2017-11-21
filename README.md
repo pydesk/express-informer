@@ -1,5 +1,5 @@
 ## Express-Informer
-[![npm](https://img.shields.io/npm/v/npm.svg)]() [![npm](https://img.shields.io/npm/l/express.svg)]()
+[![npm](https://img.shields.io/npm/v/npm.svg)]() [![npm](https://img.shields.io/npm/l/express.svg)]() [![Build Status](https://travis-ci.org/pacifio/express-informer.svg?branch=master)](https://travis-ci.org/pacifio/express-informer)
 
 An expressjs utility for development . It logs out your app behavior . You can also set it to log your data in a separate file . This npm module is an express middleware . It can be install via npm and yarn .
 
